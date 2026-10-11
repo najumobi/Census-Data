@@ -1,0 +1,11 @@
+metric,value
+direction right on drawn 2024 corridors,0.9649
+"typical miss on drawn corridors (mean absolute, people)",4474.7096
+"correlation over all 1,275 pairs",0.8199
+share inside the survey's own 90% margin,0.5088
+"90% range coverage, all pairs",0.9231
+"90% range coverage, drawn corridors",0.7895
+error model: SD = c x sqrt(two-way volume),22.7113
+corridors the method drew,29
+of which were 2024 survey corridors,23
+2024 survey corridors,57

@@ -1,0 +1,45 @@
+from,to,status,modeled_net,range_90pct,modeled_went,modeled_came_back,clear_corridor_in_survey_years,irs_2022_23_net
+California,Texas,drawn,36361,13302,80137,43777,2022 2023 2024,41249
+New York,Florida,drawn,29971,11497,59905,29934,2022 2023 2024,39343
+New York,New Jersey,drawn,28859,11871,65280,36421,2022 2023 2024,34749
+California,Arizona,drawn,24648,10562,51387,26739,2022 2023 2024,21803
+California,Nevada,drawn,20605,9725,43696,23091,2022 2023 2024,18777
+Florida,North Carolina,drawn,16405,9101,38554,22150,2022 2023 2024,9835
+Florida,Georgia,drawn,15680,11188,52948,37268,2022 2023 2024,9794
+New Jersey,Florida,drawn,14948,7864,28143,13195,2022 2023 2024,20579
+California,Tennessee,drawn,14269,6124,20484,6215,2022 2023 2024,13198
+California,Idaho,drawn,13594,5620,18308,4715,2022 2023 2024,9673
+California,Washington,drawn,13162,9920,41846,28684,2022 2023 2024,10343
+California,Oregon,drawn,13033,8323,31513,18480,2022 2023 2024,10039
+New York,Pennsylvania,drawn,12646,9204,36689,24043,2022 2023 2024,13961
+New York,North Carolina,drawn,12303,6784,22427,10124,2022 2023 2024,13219
+California,Florida,drawn,11411,9081,34426,23016,2022 2023 2024,12524
+Florida,Texas,drawn,10802,10780,47221,36419,2023,6639
+New York,Connecticut,drawn,10725,7986,27323,16598,2022 2023 2024,12048
+New York,South Carolina,drawn,9650,5086,13966,4316,2022 2023 2024,8216
+Illinois,Indiana,drawn,9406,7445,24130,14725,2022 2023 2024,5966
+Massachusetts,New Hampshire,drawn,9214,6355,19266,10051,2022 2024,7000
+California,North Carolina,drawn,9044,6419,19234,10190,2022 2023 2024,7401
+Florida,Tennessee,drawn,8131,7258,23246,15115,,5264
+New York,Texas,drawn,7871,7614,24249,16378,2022 2023 2024,7932
+Illinois,Wisconsin,drawn,7848,7072,21558,13711,2022 2023 2024,5280
+New Jersey,Pennsylvania,inside range (not drawn),7581,9400,35345,27764,2022 2023 2024,4475
+District of Columbia,Maryland,drawn,7352,6195,17553,10201,2023 2024,3814
+Oregon,Washington,inside range (not drawn),7135,8386,28652,21518,2022 2023 2024,5015
+Florida,South Carolina,drawn,7050,6281,17959,10909,2024,4702
+California,Oklahoma,drawn,6986,4388,10059,3073,2022 2023 2024,4493
+Massachusetts,Florida,drawn,6759,6707,19132,12372,2022 2023 2024,7879
+California,Georgia,drawn,6622,6217,16881,10259,2022 2023 2024,5424
+California,Colorado,inside range (not drawn),6503,7457,22979,16476,2022 2023,7406
+Washington,Idaho,drawn,6309,5589,14427,8118,2023 2024,2604
+Florida,Alabama,inside range (not drawn),5926,6347,17574,11648,2024,2971
+Pennsylvania,Florida,inside range (not drawn),5839,8160,26146,20307,2022 2023,9650
+Virginia,North Carolina,inside range (not drawn),5807,8308,27633,21826,2022,3907
+New York,Georgia,inside range (not drawn),5703,5845,14765,9061,2022 2023,7097
+Connecticut,Florida,drawn,5676,5206,12532,6856,2022 2023,5699
+California,Utah,inside range (not drawn),5436,5869,15083,9646,2022 2024,5759
+Washington,Arizona,inside range (not drawn),5289,5846,14679,9390,2022 2024,4309
+Maryland,Florida,inside range (not drawn),5279,6058,15289,10010,2022 2023 2024,6321
+Pennsylvania,South Carolina,drawn,5144,4181,8757,3613,2023,3896
+New Jersey,North Carolina,drawn,5047,4358,9165,4118,2022 2023,6540
+Maryland,Pennsylvania,inside range (not drawn),5011,6597,18089,13078,2022 2024,2467
